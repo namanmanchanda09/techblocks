@@ -27,7 +27,7 @@ h1 {
   color: white;
   font-family: 'Righteous', serif;
   font-size: 5em; 
-  text-shadow: .03em .03em 0 hsla(230,40%,50%,1);
+  text-shadow: .06em .10em 0 hsla(230,40%,50%,1);
   }
 //   h1:after {
 //     content: attr(data-shadow);
@@ -54,3 +54,8 @@ h1 {
 //   0% {background-position: 0 0}
 //   0% {background-position: 100% -100%}
 //   }
+
+h2{
+    font-size: 2em;
+    text-shadow: .06em .10em 0 hsla(230,40%,50%,1);
+}
