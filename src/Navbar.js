@@ -7,7 +7,7 @@ import './Navbar.css'
 const Navbar = () =>{
     return(
         <div className='navbar tc'>
-            <nav className='fixed'><img className='grow' src={image} alt='techblocks'></img></nav>
+            <nav className=''><img className='grow' src={image} alt='techblocks'></img></nav>
             
         </div>
 
@@ -16,4 +16,6 @@ const Navbar = () =>{
 }
 
 export default Navbar;
+
+
 

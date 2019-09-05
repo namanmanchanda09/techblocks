@@ -10,10 +10,11 @@ nav{
     height: 80px;
     background-color: rgb(235, 138, 12);
     width: 100%;
+    
 }
 
 .navbar{
-    height: 100px;
+    width: 100%
 
 }
 
