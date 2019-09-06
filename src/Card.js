@@ -10,7 +10,9 @@ const Card = () =>{
             
             <img alt="nothing" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png'></img>
                 <h2>C++</h2>
-                <p>Data structures and algorithms</p>
+                <p>Data structures and algorithms,<br /> 
+                    Data structures and algorithms, <br />
+                    Data structures and algorithms</p>
             
         </div>
 

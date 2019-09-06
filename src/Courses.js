@@ -8,13 +8,21 @@ const Courses = () =>{
     return(
         <div>
 
-            <h2 className='bg-light-green'>Courses we offer</h2>
+            <h2 className='bg-light-green pd-2 dib dib br3 pa3 ma2 grow bw2'>Courses we offer</h2>
             <br />
             <br />
             <br />
             <br />
             <br />
-            <Card name/>
+            <Card />
+            <Card />
+            <Card />
+            <Card />
+            <Card />
+            <Card />
+            <Card />
+            <Card />
+            <Card />
 
         </div>
 
