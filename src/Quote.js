@@ -1,6 +1,6 @@
 import React from 'react'
 import './Quote.scss'
-import './Quote.css'
+
 
 const Quote = () =>{
     return(

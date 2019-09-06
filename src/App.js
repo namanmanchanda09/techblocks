@@ -4,7 +4,7 @@ import Navbar from './Navbar'
 import 'tachyons'
 import NewComponent from './NewComponent'
 import Quote from './Quote'
-
+import Courses from './Courses'
 
 
 
@@ -14,9 +14,24 @@ const App = () =>{
   return(
 
     <div className='tc'>
+
       <Navbar />
-      <Quote />
       <NewComponent />
+      <Quote />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+
+      <Courses />
+      
+      
+      
+      
+
+
 
 
 
@@ -25,6 +40,8 @@ const App = () =>{
 }
 
 export default App;
+
+
 
 
 
