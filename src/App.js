@@ -7,6 +7,7 @@ import Quote from './Quote'
 import Courses from './Courses'
 import './App.css'
 import Example from './Example'
+import Instructor from './Instructor'
 
 
 
@@ -42,6 +43,7 @@ const App = () =>{
       <Example />
       <br />
       <h1>Meet the instructor</h1>
+      
 
       
 
