@@ -7,10 +7,13 @@
     "bootstrap": "^4.3.1",
     "node-sass": "^4.12.0",
     "react": "^16.9.0",
+    "react-atv-parallax": "^1.0.2",
     "react-bootstrap": "^1.0.0-beta.12",
     "react-dom": "^16.9.0",
+    "react-pose": "^4.0.8",
     "react-scripts": "3.1.1",
     "react-spring": "^8.0.27",
+    "react-use-gesture": "^5.2.4",
     "tachyons": "^4.11.1"
   },
   "scripts": {
