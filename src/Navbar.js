@@ -6,8 +6,11 @@ import './Navbar.css'
 
 const Navbar = () =>{
     return(
-        <div className='navbar tc'>
-            <nav className=''><img className='grow' src={image} alt='techblocks'></img></nav>
+        <div className='navbar tc pb3'>
+        <nav>
+            <img className='grow' src={image} alt='techblocks'></img>
+        </nav>
+            
             
         </div>
 
@@ -16,6 +19,8 @@ const Navbar = () =>{
 }
 
 export default Navbar;
+
+
 
 
 
